@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">register-form</string>
+    <string name="select_date">Select</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_edit">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_edit">Last Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+    <string name="address_edit">Address</string>
+    <string name="email">Email</string>
+    <string name="email_edit">Email</string>
+    <string name="terms_of_use_checkbox">I agree to Terms of Use</string>
+    <string name="register">Register</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
